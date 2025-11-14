@@ -1,0 +1,8 @@
+# Default is to keep crlf line endings
+text=auto
+
+*.c   text eol=crlf
+*.not text eol=crlf
+*.sub text eol=crlf
+*.txt text eol=crlf
+*.z80 text eol=crlf
